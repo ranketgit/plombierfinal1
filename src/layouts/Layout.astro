@@ -10,7 +10,7 @@ interface Props {
 
 const { title, description, canonicalUrl } = Astro.props;
 const siteUrl = 'https://plombierenurgence.com';
-const currentPath = Astro.url.pathname;
+const currentPath = Astro.url.pathname.replace(/\/$/, '');
 const fullUrl = canonicalUrl || `${siteUrl}${currentPath}`;
 ---
 

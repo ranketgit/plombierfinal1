@@ -77,5 +77,20 @@ export const locations: Location[] = [
       "perwez", "ramillies", "rebecq", "rixensart", "tubize", "villers-la-ville", 
       "walhain", "waterloo", "wavre"
     ]
+  },
+  {
+    province: "Brabant flamand",
+    communes: [
+      "aarschot", "affligem", "asse", "beersel", "begijnendijk", "bekkevoort", "bertem",
+      "bever", "bierbeek", "boortmeerbeek", "boutersem", "diest", "dilbeek", "drogenbos",
+      "galmaarden", "geetbets", "glabbeek", "gooik", "grimbergen", "haacht", "halle",
+      "herent", "herne", "hoegaarden", "hoeilaart", "holsbeek", "huldenberg", "kampenhout",
+      "kapelle-op-den-bos", "keerbergen", "kortenaken", "kortenberg", "kraainem", "landen",
+      "lennik", "leuven", "liedekerke", "linkebeek", "linter", "londerzeel", "lubbeek",
+      "machelen", "meise", "merchtem", "opwijk", "oud-heverlee", "overijse", "pepingen",
+      "roosdaal", "rotselaar", "scherpenheuvel-zichem", "sint-genesius-rode",
+      "sint-pieters-leeuw", "steenokkerzeel", "ternat", "tervuren", "tielt-winge", "tienen",
+      "tremelo", "vilvoorde", "wemmel", "wezembeek-oppem", "zaventem", "zemst", "zoutleeuw"
+    ]
   }
 ];
